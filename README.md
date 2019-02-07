@@ -57,3 +57,5 @@ pip install -r requirements.txt
 
 Word2vec скачать отсюда - http://panchenko.me/data/dsl-backup/w2v-ru/all.norm-sz100-w10-cb0-it1-min100.w2v
 
+### Основной pipeline IPythonNotebook - searcher.ipynb
+.txt файлы в корне - размеченные выборки для обучения NERa
