@@ -53,7 +53,7 @@ source vos/bin/activate
 ```[bash]
 pip install -r requirements.txt
 ```
-Доставляем PyTorch + Tf-Keras
+Доставляем Tf-Keras
 
 Word2vec скачать отсюда - http://panchenko.me/data/dsl-backup/w2v-ru/all.norm-sz100-w10-cb0-it1-min100.w2v
 
